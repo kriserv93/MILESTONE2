@@ -1,7 +1,42 @@
 .outsideborder {
     width: 100%;
     height: 100%;
-    border: 1px solid black;
+
     background-color: lightsteelblue;
+    
 }
 
+img {
+    width: 100%;
+    margin: 0;
+    
+}
+
+
+.frm {
+    padding: 20% 0 10%;
+
+}
+ .number1 {
+     background-color: lightsteelblue;
+     padding: 20% 0 10%;
+     margin: 0;
+
+ }
+  .number2 {
+     background-color: lightsteelblue;
+     padding: 0;
+     margin: 0;
+     
+ }  
+ .number3 {
+     background-color: lightsteelblue;
+     padding: 0;
+     margin: 0;
+     
+ }  
+
+.backpage {
+    padding: 20% 0 10%;
+    
+}

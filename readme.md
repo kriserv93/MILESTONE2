@@ -1,18 +1,24 @@
-<!DOCTYPE html>
-<html lang="en">
+Portfolio
 
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="stylesheet" href="css/style.css">
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"
-		type="text/css" />
-	<title>Document</title>
-</head>
+This project is a portfoilio showcasing who I am am and what I have learned so far using code Intsitute. It has 3 pages. Home, about, and contact.
+The home page shows my picture and who what I am about. The about page showcases what i have learned and where im going to school. The contact page allows the user to subit their email and contact info. 
 
-<body>
-	<header>
-		<nav class="navbar navbar-expand-lg navbar-light bg-light">
+
+Java scipt css and html5
+The project uses javascript css and html5 to complete the website 
+javascript is for the toggle in the right corner for mobile sizes.
+
+
+
+Deployment
+I am ussing Github to deploy the project
+
+Credits
+boot strap help me with code to create this page.
+here is some code from boot strap
+
+<!-- navbar code
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
 			<a class="navbar-brand" href="#">Kristof Ervin</a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"                      aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -30,17 +36,9 @@
 						<a class="nav-link" href="contact.html">Contact Me</a>
 					</li>
 				</ul>
-
-			</div>
-		</nav>
-	</header>
-	<section class="container-fluid number2">
-		<div class="row outsideborder">
-			<div class="col-md" style="padding: 0">
-				<img src="../img/backme.jpg" alt="">
-            </div>
-				<div class="col-md">
-					<form class="frm">
+                ---->
+<!--- form code
+	<form class="frm">
 						<div class="form-group formbars">
 							<label for="exampleInputEmail1">Name:</label>
 							<input type="name" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Full Name">
@@ -51,28 +49,5 @@
   </div>
 								<button type="submit" class="btn btn-primary">Submit</button>
 					</form>
-				</div>
 
-			</div>
-
-
-
-
-
-
-
-
-
-	</section>
-	<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
-		integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous">
-	</script>
-	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
-		integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous">
-	</script>
-	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
-		integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous">
-	</script>
-</body>
-
-</html>
+                    ---->
