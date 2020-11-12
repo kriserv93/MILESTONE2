@@ -1,6 +1,6 @@
 /* the background color */
 .outsideborder {
-    width: 100%;
+    
     height: 100%;
 
     background-color: lightsteelblue;
@@ -10,7 +10,7 @@
 img {
     width: 100%;
     margin: 0;
-    
+    height: 100%;
 }
 
 /* form padding */
