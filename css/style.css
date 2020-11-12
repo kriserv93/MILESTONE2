@@ -7,11 +7,20 @@
     
 }
 /* image width */
-img {
+.techimg {
     width: 100%;
     margin: 0;
     height: 100%;
 }
+
+.backme1 {
+    align-content: center;
+    margin: 36px;
+    height: 217px;
+    width: 199px;
+    border-radius: 50%;
+    border: 2px solid black;
+    
 
 /* form padding */
 .frm {
