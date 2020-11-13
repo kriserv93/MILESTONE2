@@ -4,15 +4,21 @@
     height: 100%;
 
     background-color: whitesmoke;
+
+    background-image:  url("../img/tech.jpg");
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover;
     
 }
 .outsideborder2 {
     
     height: 100%;
 
-    background-color: whitesmoke;
+    background-color: whitesmoke; 
     
 }
+
 
 /* image width */
 .techimg {
@@ -59,6 +65,7 @@
 
 .backpage {
     padding: 20% 0 10%;
+    
     
 }
 /* Sticky footer styles
