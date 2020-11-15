@@ -5,7 +5,7 @@
 
     background-color: whitesmoke;
 
-    background-image:  url("../img/tech.jpg");
+    background-image:  url("../img/techno.jpg");
     background-position: center; 
     background-repeat: no-repeat;
     background-size: cover;
@@ -30,8 +30,8 @@
 .backme1 {
     align-content: center;
     margin: 80px;
-    height: 217px;
-    width: 199px;
+    height: 239px;
+    width: 204px;
     border-radius: 50%;
     border: 2px solid black;
     padding-bottom: 0;
